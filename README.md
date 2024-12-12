@@ -8,8 +8,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maheshiwickramarathna&label=Profile%20views&color=0e75b6&style=flat" alt="maheshiwickramarathna" /> </p>
 
-----------------------------
-
 <div align="center">
  🌱 I’m currently learning **Java**
 
